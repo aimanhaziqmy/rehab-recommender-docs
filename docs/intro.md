@@ -12,19 +12,19 @@ To test the api, you can use **[https://www.postman.com/](https://www.postman.co
 #### GET
 
 ```bash
-https://prototype-and-recommendation-strategy.vercel.app/api/user
+https://rehab-recommender-v1.vercel.app/api/user
 ```
 List all the users. You also can add `email=me@example.com` query to get the specific person. For example : 
 
 ```bash
-https://prototype-and-recommendation-strategy.vercel.app/api/user?email=aimanhaziqyazik@gmail.com
+https://rehab-recommender-v1.vercel.app/api/user?email=aimanhaziqyazik@gmail.com
 ```
 
 #### POST
 
 Create exercise 
 ```bash
-https://prototype-and-recommendation-strategy.vercel.app/api/user
+https://rehab-recommender-v1.vercel.app/api/user
 ```
 
 Create a user into the database. Here are the json body needed to create a user : 
@@ -45,7 +45,7 @@ Create a user into the database. Here are the json body needed to create a user 
 
 To update the user information
 ```bash
-https://prototype-and-recommendation-strategy.vercel.app/api/user
+https://rehab-recommender-v1.vercel.app/api/user
 ```
 
 To update a user. Here are the json body needed to create a user : 
@@ -68,14 +68,14 @@ To update a user. Here are the json body needed to create a user :
 
 Get all list of exercise in the database.
 ```bash
-https://prototype-and-recommendation-strategy.vercel.app/api/exercises
+https://rehab-recommender-v1.vercel.app/api/exercises
 ```
 
 #### POST
 
 Create an exercise into the database
 ```bash
-https://prototype-and-recommendation-strategy.vercel.app/api/exercises
+https://rehab-recommender-v1.vercel.app/api/exercises
 ```
 Here are the body required to create exercise into the database : 
 ```bash
@@ -93,7 +93,7 @@ Here are the body required to create exercise into the database :
 Get personalize exerxise recommendation by using GET with `email=me@example.com` query for specific patients. 
 
 ```bash
-https://prototype-and-recommendation-strategy.vercel.app/api/exercises?email=aimanhaziqyazik@gmail.com
+https://rehab-recommender-v1.vercel.app/api/exercises?email=aimanhaziqyazik@gmail.com
 ```
 
 #### POST (optional)
@@ -132,5 +132,5 @@ This is an optional process, but necessary to do. After finished doing all the e
 ```
 
 ```bash
-https://prototype-and-recommendation-strategy.vercel.app/api/exercises
+https://rehab-recommender-v1.vercel.app/api/exercises
 ```

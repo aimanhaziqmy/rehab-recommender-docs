@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://prototype-and-recommendation-strategy.vercel.app',
+  url: 'https://rehab-recommender-v1.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'UiTM', // Usually your GitHub org/user name.
-  projectName: 'cardiac-rehab-recommender', // Usually your repo name.
+  projectName: 'cardiac-rehab-recommender-v1', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -42,14 +42,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://prototype-and-recommendation-strategy.vercel.app',
+            'https://rehab-recommender-v1.vercel.app',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://prototype-and-recommendation-strategy.vercel.app',
+            'https://rehab-recommender-v1.vercel.app',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

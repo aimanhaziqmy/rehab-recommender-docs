@@ -102,6 +102,7 @@ This is an optional process, but necessary to do. After finished doing all the e
 
 ```bash
 {
+  email : aimanhaziqyazik@gmail.com,
   ratings : [
     {
       name : "name of the exercise"

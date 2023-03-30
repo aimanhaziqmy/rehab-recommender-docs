@@ -64,10 +64,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Recommender for Cardiac Rehabilitation',
+        title: 'Recommender for MyCardiacRehab',
         logo: {
-          alt: 'Recommendation system for cardiac rehabilitation',
-          src: 'img/logo.svg',
+          alt: 'MyCardiacRehab Logo',
+          src: 'img/MyCRnew.png',
         },
         items: [
           {

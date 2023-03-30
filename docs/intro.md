@@ -6,6 +6,9 @@ sidebar_position: 1
 
 To test the api, you can use **[https://www.postman.com/](https://www.postman.com/)** .This recommender API still in experiment and development phase. Feel free to give feedback.
 
+<!--truncate-->
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/k93wj0omOdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Below are the list of api
 ### Users
 

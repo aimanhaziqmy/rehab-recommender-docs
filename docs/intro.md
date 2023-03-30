@@ -4,7 +4,7 @@ sidebar_position: 1
 
 ## Getting Started
 
-To test the api, you can use **[https://www.postman.com/](https://www.postman.com/)**
+To test the api, you can use **[https://www.postman.com/](https://www.postman.com/)** .This recommender API still in experiment and development phase. Feel free to give feedback.
 
 ## Below are the list of api
 ### Users

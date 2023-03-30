@@ -9,4 +9,6 @@ authors:
 tags: [greetings, machine learning, API] 
 ---
 
-Hi there, this project are still in development. The machine learning that are now in experiment are neural collaborative filtering, expert in the loop, two tower optimization, BQML and Matrix Factorization. Feel free to connect with my github account.
+Hi there, this project are still in development. The machine learning that are now in experiment are neural collaborative filtering, expert in the loop, two tower optimization, BQML and Matrix Factorization.
+The algorithms are being optimized to provide personalized recommendations based on user preferences and behavior.
+Feel free to connect with my github account.

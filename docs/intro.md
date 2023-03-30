@@ -93,7 +93,7 @@ Here are the body required to create exercise into the database :
 Get personalize exerxise recommendation by using GET with `email=me@example.com` query for specific patients. 
 
 ```bash
-https://rehab-recommender-v1.vercel.app/api/exercises?email=aimanhaziqyazik@gmail.com
+https://rehab-recommender-v1.vercel.app/api/machinelearning?email=aimanhaziqyazik@gmail.com
 ```
 
 #### POST (optional)
@@ -133,5 +133,5 @@ This is an optional process, but necessary to do. After finished doing all the e
 ```
 
 ```bash
-https://rehab-recommender-v1.vercel.app/api/exercises
+https://rehab-recommender-v1.vercel.app/api/machinelearning
 ```

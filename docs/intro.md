@@ -43,6 +43,19 @@ Create a user into the database. Here are the json body needed to create a user 
   comordibities : boolean(), //required
 }
 ```
+For example
+```bash
+{
+  "name" : "Ali bin Abu",
+  "email" : "alibinabu@gmail.com",
+  "height" : 170,
+  "weight" : 70,
+  "age" : 25,
+  "heartRate" : 68,
+  "spo2" : 98,
+  "comordibities" : false
+}
+```
 
 #### PUT
 

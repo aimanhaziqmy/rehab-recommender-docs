@@ -103,6 +103,21 @@ Here are the body required to create exercise into the database :
   type : string(), //required //strength-cardio-etc
 }
 ```
+The type should be : strength, cardio, warm up, cool down
+The intensityType can be : Beginner, Intermediate and Advance
+Intensity ranging from 1 to 8
+
+Example : 
+```bash
+{
+  "name" : "Test exercise",
+  "intensity" : 5,
+  "duration" : 120,
+  "intensityType" : "Intermediate",
+  "type" : "strength"
+}
+```
+
 ### Recommendation system
 
 #### GET

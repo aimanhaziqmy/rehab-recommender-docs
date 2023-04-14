@@ -15,7 +15,9 @@ To test the api, you can use **[https://www.postman.com/](https://www.postman.co
 #### GET
 
 ```bash
+<span style="color:blue">
 https://rehab-recommender-v1.vercel.app/api/user
+</span>
 ```
 List all the users. You also can add `email=me@example.com` query to get the specific person. For example : 
 
